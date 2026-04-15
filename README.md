@@ -33,3 +33,9 @@ The system allows users to perform basic rental operations such as viewing avail
 3. System processes rental transaction
 4. User can return the camera
 5. System updates inventory accordingly
+
+## Learning Objectives
+* Apply data structures in a real-case scenario
+* Understand how to manage and organize structured data
+* Implement sorting and searching algorithms
+* Build logical and efficient program flow in C++
