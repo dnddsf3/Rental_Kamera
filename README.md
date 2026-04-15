@@ -34,7 +34,7 @@ The system allows users to perform basic rental operations such as viewing avail
 4. User can return the camera
 5. System updates inventory accordingly
 
-## Learning Objectives
+## Objectives
 * Apply data structures in a real-case scenario
 * Understand how to manage and organize structured data
 * Implement sorting and searching algorithms
